@@ -1,2 +1,7 @@
 # Rimworld-Mods
-Where I store my rimworld mods.
+
+### The following are Window OS paths:  
+#### - Save Files:  
+
+#### - Mod Core Files:  
+
